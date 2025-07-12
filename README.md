@@ -47,11 +47,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goncalocoval&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalocoval&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 ---
 
 <p align="center">
