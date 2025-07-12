@@ -10,35 +10,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 🔹 AlphaBetismus – Training Center (Mar 2025 – Jul 2025)
-**Full-Stack Developer**  
-- Developed a web platform for course management using **React**, **Next.js**, **NestJS**, and **PostgreSQL**  
-- Created a fully documented API with **Swagger**  
-- Cloud deployment and configuration via **Heroku**  
-- Responsible for both backend and frontend
-
-### 🔹 Freelance Developer (Apr 2024 – Jul 2024)  
-**Web Developer**  
-- Built websites for **Bus Azemeis** and **Timeless Creative Studio**  
-- Full development lifecycle including domain setup and deployment
-
-### 🔹 Instituto dos Registos e do Notariado, I.P. (Mar 2023 – Jul 2023)  
-**Software Developer – UGRT Division**  
-- Automation scripts in **PowerShell**  
-- Developed an emergency management website for **ANEPC** (National Emergency Authority)  
-- Diagnosed, configured and managed IT equipment  
-- Final internship grade: **20/20** with a **Recommendation Letter**
-
-### 🔹 Recentegama – Sistemas e Informática (Sep 2020 – Feb 2021)  
-**IT Technician**  
-- Diagnosed and repaired hardware  
-- Configured servers and management software  
-- Managed inventory of IT equipment
-
----
-
 ## 🧠 Tech Stack
 
 ### Languages & Frameworks  
