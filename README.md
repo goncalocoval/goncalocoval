@@ -42,19 +42,3 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalocoval&layout=compact&theme=tokyonight" height="165" />
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goncalocoval&color=blue&style=flat-square" alt="profile views"/>
-</p>
