@@ -3,6 +3,7 @@
 # Hi, I'm Gonçalo 👋
 
 **Software Developer** · Java & Spring Boot backend · React frontend
+
 📍 Porto, Portugal
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:covalgoncalo2003@gmail.com)
